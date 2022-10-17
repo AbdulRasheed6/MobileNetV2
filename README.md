@@ -8,4 +8,4 @@ residual connection directly to  the output just like Resnet. They also added  b
 [<img target="_blank" src="https://user-images.githubusercontent.com/59423092/196147731-69694733-10df-43e3-8324-ac9b1791a96e.png" width=400>](https://images.app.goo.gl/mVfH3iFY85cnDoHe7/)
 ![image](https://user-images.githubusercontent.com/59423092/196147731-69694733-10df-43e3-8324-ac9b1791a96e.png)
 
-### As part of the Google ML BootCamp Deep Learning.ai Course  2022, i  was tasked with the assignment to build a model that mimics the architecture of MobileNetV2 
+### As part of the Google ML BootCamp Deep Learning.ai Course  2022, i  was tasked with the assignment to build a model that mimics the architecture of MobileNetV2 by using a pretrained model 
